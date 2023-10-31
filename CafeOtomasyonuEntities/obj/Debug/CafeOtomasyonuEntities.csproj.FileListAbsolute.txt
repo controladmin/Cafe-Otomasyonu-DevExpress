@@ -1,0 +1,30 @@
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\CafeOtomasyonuEntities.dll.config
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\CafeOtomasyonuEntities.dll
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\CafeOtomasyonuEntities.pdb
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\EntityFramework.dll
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\FluentValidation.dll
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\EntityFramework.xml
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\FluentValidation.xml
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.csproj.AssemblyReference.cache
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.Migrations.CreateDatase.resources
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.csproj.GenerateResource.cache
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.csproj.CoreCompileInputs.cache
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.dll
+C:\Users\ali kahya\Desktop\C Sharp\Akay Yazılım\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.pdb
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\CafeOtomasyonuEntities.dll.config
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\CafeOtomasyonuEntities.dll
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\CafeOtomasyonuEntities.pdb
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\EntityFramework.dll
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\FluentValidation.dll
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\EntityFramework.xml
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\bin\Debug\FluentValidation.xml
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.csproj.AssemblyReference.cache
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.Migrations.CreateDatase.resources
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.csproj.GenerateResource.cache
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.csproj.CoreCompileInputs.cache
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.dll
+C:\Users\ali kahya\Desktop\C Sharp\DevExpress Cafe Otomasyonu\DevExCafeOtomasyonu\CafeOtomasyonuEntities\obj\Debug\CafeOtomasyonuEntities.pdb
